@@ -26,6 +26,6 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
-var theFunk = funkyFunction()(); //this one stumped me - mostly because I was 
+var theFunk = funkyFunction()(); //this one stumped me - mostly because I was
 //calling funckyFunction(funkyFunction) and I could get theFunk() to log "FUNKY",
 //but wasn't aware that I could scope by double paren - I must have missed it!
